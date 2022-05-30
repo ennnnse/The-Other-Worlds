@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1af356b97b90d37479c681fbd92e69b3, type: 3}
+  m_Name: Enemy Weapon
+  m_EditorClassIdentifier: 
+  _weaponName: Enemy Sword
+  _weapon: {fileID: 4121099626201718199, guid: 626a0f8f838c375408a7af923d53cb46, type: 3}
+  _overrideController: {fileID: 22100000, guid: 1f9fd5b72d810834eaf44577987e3ffa, type: 2}
+  _minDamage: 18
+  _maxDamage: 21
+  _isLeftHanded: 0
+  _attackRange: 1.8
+  _timeForNextAttackk: 3
+  _projectile: {fileID: 0}

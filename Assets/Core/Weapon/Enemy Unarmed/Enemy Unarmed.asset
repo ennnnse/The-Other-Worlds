@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1af356b97b90d37479c681fbd92e69b3, type: 3}
+  m_Name: Enemy Unarmed
+  m_EditorClassIdentifier: 
+  _weaponName: 
+  _weapon: {fileID: 0}
+  _overrideController: {fileID: 22100000, guid: 220bdc8addeaf5546a2bb825f8766cf9, type: 2}
+  _minDamage: 15
+  _maxDamage: 20
+  _isLeftHanded: 0
+  _attackRange: 1
+  _timeForNextAttackk: 0
+  _projectile: {fileID: 0}

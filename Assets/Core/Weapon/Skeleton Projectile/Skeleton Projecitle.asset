@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1af356b97b90d37479c681fbd92e69b3, type: 3}
+  m_Name: Skeleton Projecitle
+  m_EditorClassIdentifier: 
+  _weaponName: 
+  _weapon: {fileID: 0}
+  _overrideController: {fileID: 22100000, guid: 99a4ac4bd64df9a46bdb9f60a1f205e5, type: 2}
+  _minDamage: 12
+  _maxDamage: 15
+  _isLeftHanded: 1
+  _attackRange: 10
+  _timeForNextAttackk: 3
+  _projectile: {fileID: 4502687435250241863, guid: ee37cdf870b09264fbefe8e67dc8ae42, type: 3}

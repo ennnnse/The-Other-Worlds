@@ -1,0 +1,595 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2924490103697501731
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2924490103697928707}
+  m_Layer: 0
+  m_Name: PT_Medieval_Male_Armor_HeadTop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2924490103697928707
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2924490103697501731}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.20320207, z: 0.014664958}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2924490103697928709}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2924490103697501733
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2924490103697928709}
+  m_Layer: 0
+  m_Name: PT_Medieval_Male_Armor_Head
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2924490103697928709
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2924490103697501733}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.09119416, z: 0.024500813}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2924490103697928707}
+  m_Father: {fileID: 2924490103697928779}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2924490103697501735
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2924490103697928711}
+  m_Layer: 0
+  m_Name: PT_Medieval_Male_Armor_Cape
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2924490103697928711
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2924490103697501735}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.08857022, z: -0.14888078}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2924490103697929119}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2924490103697501743
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2924490103697928719}
+  m_Layer: 0
+  m_Name: PT_Medieval_Male_Armor_Hips
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2924490103697928719
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2924490103697501743}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 1.0312524, z: 0.01863602}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2924490103697929107}
+  m_Father: {fileID: 2924490103697929111}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2924490103697501803
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2924490103697928779}
+  m_Layer: 0
+  m_Name: PT_Medieval_Male_Armor_Neck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2924490103697928779
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2924490103697501803}
+  m_LocalRotation: {x: 0.05454961, y: -0, z: -0, w: 0.9985111}
+  m_LocalPosition: {x: -0, y: 0.13004813, z: -0.00507156}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2924490103697928709}
+  m_Father: {fileID: 2924490103697929119}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2924490103697502129
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2924490103697929105}
+  m_Layer: 0
+  m_Name: PT_Medieval_Male_Armor_Spine2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2924490103697929105
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2924490103697502129}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.117735796, z: -0.003096688}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2924490103697929119}
+  m_Father: {fileID: 2924490103697929107}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2924490103697502131
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2924490103697929107}
+  m_Layer: 0
+  m_Name: PT_Medieval_Male_Armor_Spine
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2924490103697929107
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2924490103697502131}
+  m_LocalRotation: {x: -0.054553226, y: 0, z: -0, w: 0.9985109}
+  m_LocalPosition: {x: -0, y: 0.083521955, z: -0.0072031203}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2924490103697929105}
+  m_Father: {fileID: 2924490103697928719}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2924490103697502133
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2924490103697929109}
+  - component: {fileID: 2924490103711097639}
+  m_Layer: 0
+  m_Name: PT_Medieval_Male_Armor_Skeleton_01_head
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2924490103697929109
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2924490103697502133}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2924490103697929111}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &2924490103711097639
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2924490103697502133}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 6f1a3abc3e476eb4f823f1ab4687b4ed, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300000, guid: f6df18248e9363a4383898ff51eb7674, type: 3}
+  m_Bones:
+  - {fileID: 2924490103697928719}
+  - {fileID: 2924490103697929107}
+  - {fileID: 2924490103697929105}
+  - {fileID: 2924490103697929119}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 2924490103697928779}
+  - {fileID: 2924490103697928709}
+  - {fileID: 2924490103697928707}
+  - {fileID: 0}
+  - {fileID: 2924490103697928711}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 2924490103697928719}
+  m_AABB:
+    m_Center: {x: 0, y: 0.62081033, z: -0.021453466}
+    m_Extent: {x: 0.08330283, y: 0.13171011, z: 0.11862263}
+  m_DirtyAABB: 0
+--- !u!1 &2924490103697502135
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2924490103697929111}
+  - component: {fileID: 2924490103706983911}
+  m_Layer: 0
+  m_Name: a
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2924490103697929111
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2924490103697502135}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 7.452095, y: -0.00000023841858, z: 6.45358}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2924490103697928719}
+  - {fileID: 2924490103697929109}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &2924490103706983911
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2924490103697502135}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: f6df18248e9363a4383898ff51eb7674, type: 3}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 1
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: '
+
+    Transform ''PT_Medieval_Male_Armor_LeftHandIndex3'' has
+    been deleted
+
+    Transform ''PT_Medieval_Male_Armor_LeftHandIndex2'' has been
+    deleted
+
+    Transform ''PT_Medieval_Male_Armor_LeftHandIndex1'' has been deleted
+
+    Transform
+    ''PT_Medieval_Male_Armor_LeftHandMiddle3'' has been deleted
+
+    Transform ''PT_Medieval_Male_Armor_LeftHandMiddle2''
+    has been deleted
+
+    Transform ''PT_Medieval_Male_Armor_LeftHandMiddle1'' has
+    been deleted
+
+    Transform ''PT_Medieval_Male_Armor_LeftHandPinky3'' has been
+    deleted
+
+    Transform ''PT_Medieval_Male_Armor_LeftHandPinky2'' has been deleted
+
+    Transform
+    ''PT_Medieval_Male_Armor_LeftHandPinky1'' has been deleted
+
+    Transform ''PT_Medieval_Male_Armor_LeftHandRing3''
+    has been deleted
+
+    Transform ''PT_Medieval_Male_Armor_LeftHandRing2'' has
+    been deleted
+
+    Transform ''PT_Medieval_Male_Armor_LeftHandRing1'' has been
+    deleted
+
+    Transform ''PT_Medieval_Male_Armor_LeftHandThumb3'' has been deleted
+
+    Transform
+    ''PT_Medieval_Male_Armor_LeftHandThumb2'' has been deleted
+
+    Transform ''PT_Medieval_Male_Armor_LeftHandThumb1''
+    has been deleted
+
+    Transform ''PT_Medieval_Male_Armor_LeftHand'' has been
+    deleted
+
+    Transform ''PT_Medieval_Male_Armor_LeftForeArm'' has been deleted
+
+    Transform
+    ''PT_Medieval_Male_Armor_LeftArm'' has been deleted
+
+    Transform ''PT_Medieval_Male_Armor_LeftShoulder''
+    has been deleted
+
+    Transform ''PT_Medieval_Male_Armor_Head'' has been deleted
+
+    Transform
+    ''PT_Medieval_Male_Armor_Neck'' has been deleted
+
+    Transform ''PT_Medieval_Male_Armor_RightHandIndex3''
+    has been deleted
+
+    Transform ''PT_Medieval_Male_Armor_RightHandIndex2'' has
+    been deleted
+
+    Transform ''PT_Medieval_Male_Armor_RightHandIndex1'' has been
+    deleted
+
+    Transform ''PT_Medieval_Male_Armor_RightHandMiddle3'' has been deleted
+
+    Transform
+    ''PT_Medieval_Male_Armor_RightHandMiddle2'' has been deleted
+
+    Transform ''PT_Medieval_Male_Armor_RightHandMiddle1''
+    has been deleted
+
+    Transform ''PT_Medieval_Male_Armor_RightHandPinky3'' has
+    been deleted
+
+    Transform ''PT_Medieval_Male_Armor_RightHandPinky2'' has been
+    deleted
+
+    Transform ''PT_Medieval_Male_Armor_RightHandPinky1'' has been deleted
+
+    Transform
+    ''PT_Medieval_Male_Armor_RightHandRing3'' has been deleted
+
+    Transform ''PT_Medieval_Male_Armor_RightHandRing2''
+    has been deleted
+
+    Transform ''PT_Medieval_Male_Armor_RightHandRing1'' has
+    been deleted
+
+    Transform ''PT_Medieval_Male_Armor_RightHandThumb3'' has been
+    deleted
+
+    Transform ''PT_Medieval_Male_Armor_RightHandThumb2'' has been deleted
+
+    Transform
+    ''PT_Medieval_Male_Armor_RightHandThumb1'' has been deleted
+
+    Transform ''PT_Medieval_Male_Armor_RightHand''
+    has been deleted
+
+    Transform ''PT_Medieval_Male_Armor_RightForeArm'' has been
+    deleted
+
+    Transform ''PT_Medieval_Male_Armor_RightArm'' has been deleted
+
+    Transform
+    ''PT_Medieval_Male_Armor_RightShoulder'' has been deleted
+
+    Transform ''PT_Medieval_Male_Armor_Spine3''
+    has been deleted
+
+    Transform ''PT_Medieval_Male_Armor_Spine2'' has been deleted
+
+    Transform
+    ''PT_Medieval_Male_Armor_Spine'' has been deleted
+
+    Transform ''PT_Medieval_Male_Armor_RightFoot''
+    has been deleted
+
+    Transform ''PT_Medieval_Male_Armor_RightLeg'' has been
+    deleted
+
+    Transform ''PT_Medieval_Male_Armor_RightUpLeg'' has been deleted
+
+    Transform
+    ''PT_Medieval_Male_Armor_LeftFoot'' has been deleted
+
+    Transform ''PT_Medieval_Male_Armor_LeftLeg''
+    has been deleted
+
+    Transform ''PT_Medieval_Male_Armor_LeftUpLeg'' has been
+    deleted'
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!1 &2924490103697502143
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2924490103697929119}
+  m_Layer: 0
+  m_Name: PT_Medieval_Male_Armor_Spine3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2924490103697929119
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2924490103697502143}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.0919023, z: -0.012949092}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2924490103697928711}
+  - {fileID: 2924490103697928779}
+  m_Father: {fileID: 2924490103697929105}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
